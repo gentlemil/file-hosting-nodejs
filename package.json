@@ -8,7 +8,7 @@
     "watch": "nodemon app/app.js -e js,json,ejs",
     "debug": "nodemon --inspect app/app.js -e js,json"
   },
-  "author": "TworcaStron.pl",
+  "author": "Milosz Bukala",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
