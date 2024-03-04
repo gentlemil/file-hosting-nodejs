@@ -1,6 +1,0 @@
-Przygotuj hosting plików.
-
-Użytkownik wgrywa dowolny plik a następnie dostaje link do pobrania, który może komuś przesłać. 
-
-Opcjonalnie: akceptuj jedynie rozszerzenie ZIP (multer -> fileFilter). 
-            Wyświetl error jeśli wybrano niedozwolony format
